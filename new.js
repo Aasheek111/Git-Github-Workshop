@@ -1,2 +1,2 @@
 
-console.log("Hello, World! from main");
+console.log(" I am main");
